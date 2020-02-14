@@ -1,0 +1,32 @@
+List the following political themes from 1 to 10, in descending order, starting with the one you are most concerned about 
+to the one you are least concerned about. The order in how you list the first themes will be the most important to 
+have you vote for party X rather then part Y, Z, ..
+* economy
+* environment (includes horticulture)
+* energy
+* transport
+* immigration
+* safety
+* health care
+* education
+* science (includes space exploration)
+* culture (includes sports)
+* infrastructure
+* agriculture
+
+You will vote for pol party X. Some themes you ordered appear on a different order on their inputted party list. 
+Feedback is sent automatically to inform them of how you ordered your list, while notifying them of the fact that 
+your listing was still close enough to have you vote automatically for them.
+
+The party X (which you voted for) gas following thoughts on their political themes. Do you agree with these 
+(answer yes or no).
+
+Intermediate thoughts (which the political party did not put forward but which are between their thoughts, 
+and the negative response you gave on that particular issue will also be presented. For instance if
+trying to address pollution from energy production (under theme:energy) and the party is for switching to 
+100% renewable energy (which you oppose), it will start giving yes/no questions on whether
+you like things such as installing new nuclear power plants, implementing carbon capture and storage on old fossil 
+power plants, ... instead.
+
+The questions you answered with a yes, will then be forwarded to the appropriate political party as well, together with 
+the theme ordering
