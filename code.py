@@ -46,37 +46,37 @@ Then display "You have chosen for [display label:partyG]"
 
 # Now start the questions on the chosen themes for increased opinion precision
 If chosen_arrangement_first_three_themes includes economy
-then launch q10r_economy_questions
+then launch q10r/questionnaires/economy_questions.json
 
 If chosen_arrangement_first_three_themes includes environment
-then launch q10r_environment_questions
+then launch q10r/questionnaires/environment_questions.json
 
 If chosen_arrangement_first_three_themes includes energy
-then launch q10r_energy_questions
+then launch q10r/questionnaires/energy_questions.json
 
 If chosen_arrangement_first_three_themes includes transport
-then launch q10r_transport_questions
+then launch q10r/questionnaires/transport_questions.json
 
 If chosen_arrangement_first_three_themes includes immigration
-then launch q10r_immigration_questions
+then launch q10r/questionnaires/immigration_questions.json
 
 If chosen_arrangement_first_three_themes includes safety
-then launch q10r_safety_questions
+then launch q10r/questionnaires/safety_questions.json
 
 If chosen_arrangement_first_three_themes includes health care
-then launch q10r_healthcare_questions
+then launch q10r/questionnaires/healthcare_questions.json
 
 If chosen_arrangement_first_three_themes includes education
-then launch q10r_education_questions
+then launch q10r/questionnaires/education_questions.json
 
 If chosen_arrangement_first_three_themes includes science
-then launch q10r_science_questions
+then launch q10r/questionnaires/science_questions.json
 
 If chosen_arrangement_first_three_themes includes culture
-then launch q10r_culture_questions
+then launch q10r/questionnaires/culture_questions.json
 
 If chosen_arrangement_first_three_themes includes infrastructure
-then launch q10r_infrastructure_questions
+then launch q10r/questionnaires/infrastructure_questions.json
 
 If chosen_arrangement_first_three_themes includes agriculture
-then launch q10r_agriculture_questions
+then launch q10r/questionnaires/agriculture_questions.json
