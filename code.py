@@ -1,7 +1,7 @@
 if chosen_arrangement_first_three_themes= economy, environment, energy
 then selected_party=partyA
 
-if chosen_arrangement_first_three_themes= environment, energy, transport,
+if chosen_arrangement_first_three_themes= environment, energy, transport
 then selected_party=partyB
 
 if chosen_arrangement_first_three_themes= economy, environment, agriculture
@@ -10,7 +10,7 @@ then selected_party=partyC
 if chosen_arrangement_first_three_themes= immigration, safety, health care
 then selected_party=partyD
 
-if chosen_arrangement_first_three_themes= education, science, culture,
+if chosen_arrangement_first_three_themes= education, science, culture
 then selected_party=partyE
 
 if chosen_arrangement_first_three_themes= immigration, economy, infrastructure
@@ -73,4 +73,10 @@ If chosen_arrangement_first_three_themes includes science
 then launch q10r_sciencequestions
 
 If chosen_arrangement_first_three_themes includes culture
+then launch q10r_culturequestions
+
+If chosen_arrangement_first_three_themes includes infrastructure
+then launch q10r_culturequestions
+
+If chosen_arrangement_first_three_themes includes agriculture
 then launch q10r_culturequestions
