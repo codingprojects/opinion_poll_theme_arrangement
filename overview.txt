@@ -1,6 +1,6 @@
 The program first asks to list the following political themes from 1 to 10, in descending order, starting with the one you 
 are most concerned about to the one you are least concerned about. The order in how you list the first themes will be the most
-important to have you vote for party X rather then part Y, Z, ..
+important to have you vote for party A rather then party B, C, ..
 * economy
 * environment (includes horticulture)
 * energy
